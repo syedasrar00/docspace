@@ -1,0 +1,1 @@
+"""DocSpace API application package."""
